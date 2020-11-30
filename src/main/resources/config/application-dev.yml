@@ -35,9 +35,9 @@ spring:
   messages:
     cache-duration: PT1S # 1 second, see the ISO 8601 standard
   r2dbc:
-    url: r2dbc:postgresql://ec2-54-158-190-214.compute-1.amazonaws.com:5432/d4dr7en6e7mciv
-    username: gbpaojgrckoruk
-    password: 59e13a0c060b4cb378dad07e0a17564d65f81e0f5f4f4b5bda942cb69e4e4a3b
+    url: r2dbc:postgresql://ec2-54-147-126-202.compute-1.amazonaws.com:5432/d1ktk234r7c545
+    username: bfielbocbkiimi
+    password: 386281732b6cd2dba79009c057aa0190c149565df85dff7a2ffe15710b8f352a
   thymeleaf:
     cache: false
 
